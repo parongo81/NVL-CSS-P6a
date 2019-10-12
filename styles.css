@@ -1,0 +1,104 @@
+#tabla{
+	width: 600px;
+	
+}
+
+.tr th{
+	background-color: #85929E;
+}
+
+.uno{
+	background-color:#FFFFFF;
+	border: 1px solid #000000;
+}
+.dos{
+	background-color: #F2F2F2;
+	border: 1px solid #000000;
+}
+
+.tres{
+	background-color:#E6E6E6;
+	border: 1px solid #000000;
+}
+
+.cuatro{
+	background-color: #D8D8D8;
+	border: 1px solid #000000;
+}
+
+.cinco{
+	background-color: #A4A4A4;
+	border: 1px solid #000000;
+}
+
+.seis{
+	background-color: #6E6E6E;
+	border: 1px solid #000000;
+}
+
+.siete{
+	background-color: #424242;
+	color:#FFFFFF;
+	border: 1px solid #000000;
+}
+
+.ocho{
+	background-color: #1C1C1C;
+	color: #FFFFFF;
+	border: 1px solid #000000;
+}
+
+.nueve{
+	background-color: #151515;
+	color: #FFFFFF;
+	border: 1px solid #000000;
+}
+
+.diez{
+	background-color: #000000;
+	color: #FFFFFF;
+	border: 1px solid #000000;
+}
+
+th, td{
+	border: 1px solid #000000;
+	background-color: #D5D8DC;
+}
+.black{
+	background-color: #000000;
+}
+
+
+.white{
+	background:#ffffff;
+}
+
+.grey{
+ background:#D8D8D8;
+}
+
+th{
+	font-family: fantasy;
+	font-weight: bold;
+}
+
+td{
+	font-family: fantasy;
+	font-style: oblique;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
